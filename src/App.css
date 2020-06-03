@@ -12,3 +12,9 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+* {
+  padding: 10px;
+  margin: 10px;
+  justify-content: center;
+}
